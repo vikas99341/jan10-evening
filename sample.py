@@ -1,6 +1,7 @@
 a=5
 b=6
 c=10
-sum a+b+c
+d=9
+sum a+b+c+d
 
 print sum 
