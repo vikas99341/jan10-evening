@@ -4,5 +4,7 @@ c=10
 d=89
 sum=a+b+c+d
 sub= a-b-c
+mul=a*b*c
 print sum 
 print sub
+print mul
