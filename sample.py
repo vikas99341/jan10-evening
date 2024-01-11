@@ -5,6 +5,8 @@ d=89
 sum=a+b+c+d
 sub= a-b-c
 mul=a*b*c*d
+div=a/b
 print sum 
 print sub
 print mul
+print div
